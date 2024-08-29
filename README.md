@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-kumar-barik&label=Profile%20views&color=0e75b6&style=flat" alt="arun-kumar-barik" /> </p>
 
-- 💬 Ask me about **Java,DSA,HTML,CSS**
+- 💬 Ask me about **Java,DSA,HTML,CSS,JS,ReactJS,Spring Boot**
 
 - 📫 How to reach me **arunbarik.kjr143@gmail.com**
 
